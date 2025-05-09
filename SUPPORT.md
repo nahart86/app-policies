@@ -4,7 +4,6 @@ If you need help with the HartCore app or have any questions, please feel free t
 
 **Contact Us:**
 
-*   **For general support questions or feedback:** Please email us at [Your Support Email Address]
-*   **To report a bug or request a feature:** You can open an issue on our GitHub repository: [Link to your HartCore GitHub Issues page, e.g., https://github.com/nahart86/HartCore/issues]
+*   **For general support questions or feedback:** Please email us at nahart86@gmail.com
 
 Thank you for using HartCore!
