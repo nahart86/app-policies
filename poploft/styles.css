@@ -2,3 +2,7 @@
 
 .brand{font-size:32px;font-weight:900;letter-spacing:-1.6px}.brand span{color:var(--teal)}.brand b{color:#ff6466;margin-left:3px}
 @media(prefers-color-scheme:dark){:root{--ink:#f2f1e9;--teal:#7bdfc6;--paper:#111d25;--surface:#20313a;--stroke:#39505b;--quiet:#a9b9be}}
+
+.lead{font-size:21px;line-height:1.6}.launch-status{display:inline-block;padding:10px 15px;border-radius:14px;background:#edf3e9;color:#146e64;font-size:14px;font-weight:700}.gallery{display:grid;grid-template-columns:1fr 1fr;gap:18px;align-items:start}.gallery img{display:block;width:100%;border-radius:18px;border:1px solid #e1dfd7}nav{flex-wrap:wrap}@media(max-width:560px){main{padding:42px 22px}.card{padding:22px}.gallery{grid-template-columns:1fr}.gallery img{max-height:680px;object-fit:contain;background:var(--paper)}}@media(prefers-color-scheme:dark){:root{color-scheme:dark;--paper:#101e27;--ink:#f4f1e9;--teal:#75d7bd}.card{background:#1c323c;border-color:#334c56}.muted{color:#b2c6cc}.launch-status{background:#1c3839;color:#75d7bd}footer,.gallery img{border-color:#334c56}}
+
+.wordmark{display:inline-block;font-size:38px;line-height:1;font-weight:900;letter-spacing:-2px;text-decoration:none;color:#242e3b;margin-bottom:28px}.wordmark span{color:#146e64}.wordmark b{color:#ff6466}.tile svg{display:block}@media(prefers-color-scheme:dark){.wordmark{color:#f4f1e9}.wordmark span{color:#75d7bd}}
